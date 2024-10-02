@@ -14,7 +14,7 @@ multiple key-value pairs to be passed for proper navigation.
 | **Key** |   **Value**    | **Description**                            |
 |:-------:|:--------------:|:-------------------------------------------|
 |  `key`  | `special_exam` | Fixed value to pass                        |
-|  `id`   |      `1`       | 1 : NMMS <br/>2 : Gyan Sadhana<br/>3 : CET |
+|  `id`   |      `1`       | 1 : NMMS <br/>2 : Gyan Sadhana<br/>4 : CET |
 
 ---
 
