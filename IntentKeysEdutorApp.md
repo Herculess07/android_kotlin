@@ -11,10 +11,10 @@ multiple key-value pairs to be passed for proper navigation.
 - **Description**: Opens the special exam subjects page.
 - **Direct URL** : https://web.edutorapp.com/special_exam/{:id}
 
-| **Key** |   **Value**    | **Description**                            |
-|:-------:|:--------------:|:-------------------------------------------|
-|  `key`  | `special_exam` | Fixed value to pass                        |
-|  `id`   |      `1`       | 1 : NMMS <br/>2 : Gyan Sadhana<br/>4 : CET |
+| **Key** |   **Value**    | **Description**                                            |
+|:-------:|:--------------:|:-----------------------------------------------------------|
+|  `key`  | `special_exam` | Fixed value to pass                                        |
+|  `id`   |      `1`       | 1 : NMMS <br/>2 : Gyan Sadhana<br/>4 : CET <br/>5 : Navoday|
 
 ---
 
